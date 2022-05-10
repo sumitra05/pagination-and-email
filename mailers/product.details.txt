@@ -1,0 +1,4 @@
+product name :- sample product
+price: 500
+image: sdlflsdfj
+this mail send by sumitra awadhiya
